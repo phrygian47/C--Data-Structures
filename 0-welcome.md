@@ -10,7 +10,7 @@ Each section will contain a brief descriptions, common operations, and examples 
 
 ## The Author
 
-My name is Robert Elliott, I am a 3rd Computer Engineering student. For questions, comments or concerns about this tutorial please reach out to me through:
+My name is Robert Elliott, I am a senior Computer Engineering student at BYU-I. For questions, comments or concerns about this tutorial please reach out to me through:
 
 robert.elliott2925@gmail.com
 
